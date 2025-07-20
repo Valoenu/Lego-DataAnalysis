@@ -1,6 +1,6 @@
 # 🧱 LEGO Data Analysis Project
 
-This project explores the history and evolution of LEGO sets, themes, and colors from 1949 to 2020 using Python, PostgreSQL, and data visualization. As a student learning and experimenting with coding and data analysis, I created this project to practice working with real datasets and improve my skills in data wrangling, querying, and visualization.
+This project explores the history and evolution of LEGO sets, themes, and colors from 1949 to 2020 using Python, PostgreSQL, and data visualization. As a student learning and experimenting with coding and data analysis, I created this project to practice working with real datasets and improve my skills in data wrangling, querying, and visualization. This project was build with Udemy App Brewery Bootcamp Course
 
 ---
 
